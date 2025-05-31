@@ -1,0 +1,8 @@
+# VitaTrack02
+CREATE DATABASE DB_ProyectoFinal002;
+
+Create table REGISTRO_PF002(
+Id INT PRIMARY KEY IDENTITY (1,1),
+Comida VARCHAR (500) NOT NULL,
+Caloriass Int (MAX) NOT NULL,
+Fecha Date)
